@@ -1,0 +1,18 @@
+@import url('https://fonts.cdnfonts.com/css/gotham');
+
+* {
+    font-family: 'Gotham', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: var(--bg);
+    
+}
+
+:root {
+    --bg: rgb(17, 17, 17);
+
+    --white: #ffff;
+    --black: #0000;
+    --grey: rgb(105, 105, 105);
+}

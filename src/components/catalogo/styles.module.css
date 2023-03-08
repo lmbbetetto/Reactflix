@@ -1,0 +1,10 @@
+.container {
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+.reprodutor {
+    width: 100%;
+    height: 1hv;
+    background-color: blue;
+}

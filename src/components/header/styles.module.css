@@ -1,0 +1,45 @@
+.container {
+    max-width: 95%;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.esquerda {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.esquerda p {
+    color: var(--white);
+}
+
+.esquerda img {
+    max-width: 25%;
+}
+
+.direita {
+    color: var(--white);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.icon {
+    font-size: 20px;
+}
+
+.giovana {
+    border-radius: 5px;
+    background-color: var(--white);
+    width: 30px;
+    height: 30px;
+}
