@@ -7,10 +7,14 @@ export function Catalogo() {
         <>
             <Header />
 
-            <div className={styles.container}>
-                <div className={styles.reprodutor}>
-
+            <div className={styles.reprodutor}>
+                <div className={styles.repInterna}>
+                    <h1>Teste</h1>
                 </div>
+            </div>
+
+            <div className={styles.container}>
+
             </div>
         </>
     )
