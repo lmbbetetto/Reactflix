@@ -12,7 +12,6 @@ export function Header() {
                 <p>Início</p>
                 <p>Séries</p>
                 <p>Filmes</p>
-                
             </div>
 
             <div className={styles.direita}>
