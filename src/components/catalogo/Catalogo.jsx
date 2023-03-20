@@ -10,14 +10,15 @@ export function Catalogo() {
 
             <div className={styles.reprodutor}>
                 <div className={styles.repInterna}>
-                    {/* <h1>Teste</h1> */}
+                    <h1>Filme legal</h1>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <div className={styles.btns}>
+                        <button>Assistir</button>
+                        <button>Mais Informações</button>
+                    </div>
                 </div>
             </div>
-
-            <div className={styles.container}>
-                <Cards />
-                <Cards />
-            </div>
+            <Cards />
         </>
     )
 }
