@@ -2,15 +2,14 @@ import styles from "./styles.module.css"
 import { motion } from "framer-motion"
 import { useState, useRef, useEffect } from "react"
 
-import img1 from "../../assets/images/carrossel/img1.jpeg"
-import img2 from "../../assets/images/carrossel/img2.jpeg"
-import img3 from "../../assets/images/carrossel/img3.jpeg"
-import img4 from "../../assets/images/carrossel/img4.jpeg"
-import img5 from "../../assets/images/carrossel/img5.jpeg"
-import img6 from "../../assets/images/carrossel/img6.jpeg"
-import img7 from "../../assets/images/carrossel/img7.jpeg"
-import img8 from "../../assets/images/carrossel/img8.jpeg"
-
+import img1 from "../../assets/images/Gi/img2.jpg"
+import img2 from "../../assets/images/Gi/img1.jpg"
+import img3 from "../../assets/images/Gi/img3.jpg"
+import img4 from "../../assets/images/Gi/img4.jpg"
+import img5 from "../../assets/images/Gi/img5.jpg"
+import img6 from "../../assets/images/Gi/img6.jpg"
+import img7 from "../../assets/images/Gi/img7.jpg"
+import img8 from "../../assets/images/Gi/img8.jpg"
 const imagens = [img1, img2, img3, img4, img5, img6, img7, img8]
 
 export function Cards() {

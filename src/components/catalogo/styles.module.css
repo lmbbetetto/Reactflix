@@ -6,8 +6,8 @@
 .reprodutor {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(17, 17, 17, 1), transparent), url("../../assets/images/about_img.jpeg");
-    background-position: center top;
+    background-image: linear-gradient(to top, rgba(17, 17, 17, 1), transparent), url("../../assets/images/Gi/img10_1.jpg");
+    background-position: center right;
     background-size: 100%;
     margin-bottom: -9rem;
 }
