@@ -16,7 +16,7 @@ export function Catalogo() {
             <div className={styles.reprodutor}>
                 <div className={styles.repInterna}>
                     <h1>2.3</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p>Em um reino tão tão distante, nascia uma bela princesa chamada Giovana, que em 23 anos de vida, aproveitou, viveu, e o mais importante, se tornou uma mulher incrível. Essa é uma singela homenagem aos seus 23 anos, você é luz, você é a pessoa mais incrível desse mundo todo!</p>
                     <div className={styles.btns}>
                         <Link to="/Player"><button className={styles.btnWhite}>
                             <div className={styles.btn_interna}>
