@@ -1,6 +1,6 @@
-import video from "../../assets/video/l7.mp4"
-
 import ReactPlayer from 'react-player';
+
+import video from '../../assets/video/video.mp4'
 
 export function Player() {
     return (
